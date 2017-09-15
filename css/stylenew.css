@@ -1,0 +1,75 @@
+@import url(https://fonts.googleapis.com/css?family=Russo+One);
+
+
+
+
+body, html {
+  height: 100%;
+}
+
+body {
+
+}
+
+.intro {
+	background: url('../img/strong.jpg');
+	background-size: cover;
+    width:100%;  
+	height: 100vh;   
+}
+
+ .big-text {
+    text-align: relative;
+    font-size: 100;
+    margin: 0px;
+    padding: 450px;
+    width: 100%;
+    color: White;
+    font-weight: bolder;
+    font-family: 'Russo One', sans-serif;
+    position: relative;
+    top: -50px;
+    left:700px;
+    right:100px ;
+     
+    
+}
+
+
+.big-text h1{ 
+	background: rgba(32,32,32,.3); 
+	padding-top:15px;
+	padding-bottom:15px;
+	padding-left:25px;
+	padding-right:25px;
+    right: 30%;
+    width:55%;
+    position: relative;
+    
+}
+
+
+
+   .about {
+	background: url('../img/lw.1.png') ;
+	background-size: cover;
+    width:100%;  
+	height: 100vh;
+}
+
+
+
+
+
+
+#parallax1 { 
+    background: url('../img/Logo.jpg');
+    background-size: cover ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    height: 350px;
+    margin: 0 auto; 
+    position: relative; 
+   
+}

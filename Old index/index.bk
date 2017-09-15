@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>Standard Page?</title>
+  
+  
+  <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css'>
+
+      <link rel="stylesheet" href="css/style.css">
+
+  
+</head>
+
+<body>
+  <body>
+  <header> 
+  <a href="#" id="logo">Dubss</a>
+  <nav>
+    <a href="#" id="menu-icon"></a>
+    <ul>
+        <li><a href="#" class="current">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Work</a></li>
+        <li><a href="#">Blog</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+  </header> 
+  
+ 
+   
+<div id="parallax1" class="container-fluid  img-responsive">  </div>
+<div class="just_pattern"></div>
+  <h1 id="h1">John Weisbrodt</h1>
+  <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+  <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+
+  
+  
+
+      <div id="section3" class="container-fluid img-responsive">
+  <h1 id="h1">John Weisbrodt</h1>
+  <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+  <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+  </div>
+  
+    <div id="parallax2" class="container-fluid img-responsive">  </div>
+        <div id="section4" class="container-fluid img-responsive">
+  <h1 id="h1">John Weisbrodt</h1>
+  <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+  <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+  </div>
+ 
+ <div id="parallax1" class="container-fluid img-responsive">  </div>
+</div>
+    
+<div class="footer">This was create by John Weisbrodt. This is an alpha</strong>.
+  <br>
+  <ul class="inlinelist" style="list-style-type:none" id=ul1>
+    <li>Placeholder</li>
+    <li>Placeholder</li>
+    <li>Placeholder</li>
+    <li>Placeholder</li>
+  </ul>
+  <ul class="inlinelist" style="list-style-type:none" id=ul1>
+    <li>Placeholder</li>
+    <li>Placeholder</li>
+    <li>Placeholder</li>
+    <li>Placeholder</li>
+  </ul>
+
+  <ul class="inlinelist" style="list-style-type:none" id=ul1>
+    <li>Placeholder</li>
+    <li>Placeholder</li>
+    <li>Placeholder</li>
+    <li>Placeholder</li>
+  </ul>
+
+</body>
+  
+  
+</body>
+</html>
