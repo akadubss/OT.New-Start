@@ -5,6 +5,7 @@
 
 body, html {
   height: 100%;
+overflow: scroll;
 }
 
 body {
@@ -21,16 +22,14 @@ body {
  .big-text {
     text-align: relative;
     font-size: 100;
-    margin: 0px;
+    float: left;
     padding: 450px;
     width: 100%;
     color: White;
     font-weight: bolder;
     font-family: 'Russo One', sans-serif;
     position: relative;
-    top: -50px;
-    left:700px;
-    right:100px ;
+
      
     
 }
@@ -56,6 +55,70 @@ body {
     width:100%;  
 	height: 100vh;
 }
+
+
+
+/*testamonials*/
+#cont1 { 
+  border : 3px solid #000; 
+  width: 19cm;
+  display: inline-block;
+  margin-left: 100px;    
+
+  
+
+}
+
+#cont2 #image2 {
+  min-height: 200px;
+  padding:0;
+  position: static;
+  background-image:url('../img/Olympus_Profile.png');
+  width: 200px ;
+  height: 200px ;
+  background-size: cover;
+ 
+}
+
+#cont2 { 
+  border : 3px solid #000; 
+  width: 19cm;
+  display: inline-block;
+  margin-left: 100px;  
+  
+  
+  
+
+}
+
+#cont1 #image2 {
+  min-height: 200px;
+  padding:0;
+  position: static;
+  background-image:url('../img/Olympus_Profile.png');
+  width: 200px ;
+  height: 200px ;
+  background-size: cover;
+ 
+}
+
+
+
+
+/* Container Border */
+#two { 
+  background-color: white;
+  overflow:hidden;
+  margin: 15px ;
+  border:2px dashed #ccc;
+  min-height:170px;
+  max-width: 450px;
+  position: static;
+  float:right;
+ }
+
+    
+    
 
 
 
